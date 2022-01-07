@@ -1,0 +1,33 @@
+header {
+    background-color: rgb(59, 59, 59);
+    color: white
+}
+header ul {
+    align-self: center;
+}
+ 
+header ul a:link {
+    color: white;
+}
+header ul a:visited {
+    color: white;
+}
+header ul a:visited {
+    color: white;
+}
+
+.banner {
+    height: 40vh;
+    background-color: rgb(167, 165, 165);
+}
+.banner p {
+    align-self: center;
+    font-size: 3vw;
+}
+
+main {
+    margin: 5% auto;
+}
+aside{
+    border: 1px solid grey;
+}
